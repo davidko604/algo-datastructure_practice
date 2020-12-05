@@ -1,4 +1,4 @@
-import { swap } from '../s11_bubble_sort/bubble_sort'
+import { swap } from '../bubble_sort/bubble_sort'
 
 const testArray = [4, 2, 53, 23, 133, 56, 14, 105, 7]
 
